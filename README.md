@@ -1,2 +1,1 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codedblue-gh&layout=compact&langs_count=8)
-
+![Metrics](https://github.com/codedblue-gh/codedblue-gh/blob/main/github-metrics.svg)
