@@ -35,7 +35,7 @@
 
 ### e-commerce
 - [Simple Choice](https://codebleus.github.io/simple-choice/dist/home.html) — website for a kid clothing store
-- [EveryQvevri](https://codebleus.github.io/every-qvevri/app/home.html) — Website for a georgian wine Brand
+- [EveryQvevri](https://codebleus.github.io/every-qvevri/app/home.html) — website for a georgian wine Brand
 ---
 
 ---
